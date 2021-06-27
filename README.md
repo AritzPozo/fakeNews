@@ -3,7 +3,7 @@ Proyecto InnoSocial: Fake News
 ## Propuesta nombre:
 1. lupa mx
 2. confia mx
-3.
+3. Thunder Eagle
 4.
 5.
 6.
