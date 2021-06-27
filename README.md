@@ -6,7 +6,7 @@ Proyecto InnoSocial: Fake News
 3. Thunder Eagle
 4. ardillita mx
 5.fake consult
-6.
+6. FALSE TO TRUE NEWS
 7.
 
 ## Google Forms
