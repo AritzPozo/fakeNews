@@ -1,8 +1,8 @@
 # Fake News
 Proyecto InnoSocial: Fake News
 ## Propuesta nombre:
-1. 
-2.
+1. lupa mx
+2. confia mx
 3.
 4.
 5.
